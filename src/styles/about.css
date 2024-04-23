@@ -1,0 +1,33 @@
+.about {
+  background-color: white;
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  text-align: center;
+  flex-direction: column;
+}
+
+.body-text {
+  font-size: 20px;
+  color: #343353;
+  margin: 20px;
+}
+
+.container {
+  margin: 20px;
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  line-height: 1.5;
+}
+
+.skills-container {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin-top: 20px;
+}

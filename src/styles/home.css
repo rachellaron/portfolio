@@ -1,0 +1,57 @@
+.home-page {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  text-align: center;
+  flex-direction: column;
+  color: white;
+}
+
+.social-media-icons {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  font-size: 25px;
+}
+
+.icon {
+  color: white;
+}
+
+.icon :hover {
+  background-color: rgba(255, 255, 255, 0.2);
+}
+
+.home-title {
+  font-size: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.home-description {
+  line-height: 1.5;
+  font-size: 25px;
+}
+
+.scroll-down-btn {
+  position: absolute;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  cursor: pointer;
+  border: none;
+  background-color: transparent;
+  color: white;
+  border-radius: 50px;
+  font-size: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 10px;
+}
+
+.scroll-down-btn:hover {
+  background-color: rgba(255, 255, 255, 0.2);
+}
