@@ -55,3 +55,19 @@
 .scroll-down-btn:hover {
   background-color: rgba(255, 255, 255, 0.2);
 }
+
+.scroll-down-btn-two {
+  cursor: pointer;
+  border: none;
+  background-color: transparent;
+  color: rgb(63, 63, 63);
+  border-radius: 50px;
+  font-size: 16px;
+  display: flex;
+  padding-top: 50px;
+}
+
+.scroll-down-btn-two:hover {
+  background-color: rgba(255, 255, 255, 0.2);
+  color: #6c6ce6;
+}
