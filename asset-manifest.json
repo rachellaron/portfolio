@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.89506a2c.css",
-    "main.js": "/portfolio/static/js/main.cf52d66d.js",
+    "main.css": "/portfolio/static/css/main.c9c5fa95.css",
+    "main.js": "/portfolio/static/js/main.441592f3.js",
     "static/js/453.ace21015.chunk.js": "/portfolio/static/js/453.ace21015.chunk.js",
     "static/media/rachelaron-resume.pdf": "/portfolio/static/media/rachelaron-resume.ec3144e153a05426944a.pdf",
     "index.html": "/portfolio/index.html",
-    "main.89506a2c.css.map": "/portfolio/static/css/main.89506a2c.css.map",
-    "main.cf52d66d.js.map": "/portfolio/static/js/main.cf52d66d.js.map",
+    "main.c9c5fa95.css.map": "/portfolio/static/css/main.c9c5fa95.css.map",
+    "main.441592f3.js.map": "/portfolio/static/js/main.441592f3.js.map",
     "453.ace21015.chunk.js.map": "/portfolio/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.89506a2c.css",
-    "static/js/main.cf52d66d.js"
+    "static/css/main.c9c5fa95.css",
+    "static/js/main.441592f3.js"
   ]
 }
